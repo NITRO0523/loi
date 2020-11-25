@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - SPACE" tvg-logo="http://www.mediafire.com/convkey/ca09/78ypzdm581locjfzg.jpg" group-title="• CINE",CINE - SPACE
+https://live.televisiongratishd.com/tvplus2021/39_.m3u8?token=QyfCZRxyf3W5D_z94RCVPg&expires=1606296784
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE - CINE LATINO" tvg-logo="http://images.mi.tv/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg" group-title="• CINE",CINE - CINE LATINO
+https://live.televisiongratishd.com/tvplus2021/84_.m3u8?token=Q0wSUWG08bvbUB_vgRIblQ&expires=1606296971
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CINECANAL" tvg-logo="http://www.mediafire.com/convkey/6706/gz77e06fxqv0ifezg.jpg" group-title="• CINE",CINE - CINECANAL
+https://live.televisiongratishd.com/tvplus2021/44_.m3u8?token=scIgw_vzkBxFSlLhXDkrkA&expires=1606296911
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - CINEMAX" tvg-logo="http://www.mediafire.com/convkey/c00c/qr3b8ugkko838ggzg.jpg" group-title="• CINE",CINE - CINEMAX
+https://live.televisiongratishd.com/tvplus2021/43_.m3u8?token=XPhiUVD6iYThCLVS3anLCg&expires=1606297040
+
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="CINE - FOX CHANNEL" tvg-logo="https://www.entertainmentbox.com/wp-content/uploads/2016/06/WATCH-FOX-TURKEY-ANDROID-TV-BOX-APP-1.png" group-title="• CINE",CINE - FOX CHANNEL
+https://live.televisiongratishd.com/tvplus2021/42_.m3u8?token=0hDNcL0PKR7V45ktJbHLeg&expires=1606297153
